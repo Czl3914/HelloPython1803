@@ -1,5 +1,5 @@
 def get__data():
-    print("别睡觉")
+    print("小伙子")
 
 
 if __name__ == '__main__':
